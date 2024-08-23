@@ -9,11 +9,7 @@ A tool that helps you onboard and learn codebases up to 100% faster.
 *(if you accidentally closed, refresh window or manually install the extension 'downfromslow')*
 
 ### 1. Open the Plugin
-Click the UpToSpeed logo ⏩ (fastforward button)
-In the left panel, then tours, and click "Open Tours".
-
-Or if you have a file open press the ⏩ (fastforward button) in the top right of 
-the active editor window.
+Click the UpToSpeed logo ⏩ (fastforward button) in the top right corner of this window(active editor).
  
 Or Command pallet:
 Mac: `cmd+shift+p` 
